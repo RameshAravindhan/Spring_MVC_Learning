@@ -1,0 +1,8 @@
+spring-mvc-demo.iml
+.idea\
+target\
+out\
+
+# Project exclude paths
+/out/
+/target/
